@@ -34,37 +34,27 @@ https://drive.google.com/file/d/17JVk1V7oG1HCY0tZJ0_pMfuAXkwtMqyB/view?usp=shari
 
 ## 🚀 Installation
 
-# Clone the repository
-git clone https://github.com/yourusername/RetroFutureEscape.git
+ - Clone the repository
+   -->git clone https://github.com/yourusername/RetroFutureEscape.git
 
-# Navigate to the project directory
-cd RetroFutureEscape
+  -Navigate to the project directory
+   -->cd RetroFutureEscape
 
 ## 🎮 How to Play
 
-Launch the game
-Choose your character
-Navigate through the levels
-Complete objectives and solve puzzles
-Enjoy the nostalgic journey!
+-->Launch the game
+-->Navigate through the levels
+-->Complete objectives and solve puzzles
+-->Enjoy the nostalgic journey!
 
-🤝 Contributing
-We welcome contributions to RetroFutureEscape! If you'd like to contribute, please follow these steps:
-
-Fork the repository
-Create a new branch (git checkout -b feature/AmazingFeature)
-Make your changes
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
 
 📄 License
-Distributed under the MIT License.
-Manvi Upadhyay  - manviupadhyay2@gmail.com
-Project Link: https://github.com/yourusername/RetroFutureEscape
+-Distributed under the MIT License.
+-Manvi Upadhyay  - manviupadhyay2@gmail.com
+-Project Link: https://github.com/yourusername/RetroFutureEscape
 
 🙏 Acknowledgements
-Unity Technologies
-Blender Foundation
-Icon8 for the icons used in this README
+-Unity Technologies
+-Blender Foundation
+-Icon8 for the icons used in this README
 
