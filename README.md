@@ -1,7 +1,5 @@
 # 🕹️ RetroFutureEscape: Nostalgia Reimagined
 
-![Game Logo](insert_logo_url_here)
-
 RetroFutureEscape is an exciting gaming application that blends retro aesthetics with futuristic elements, reimagining nostalgic gameplay for a modern audience.
 
 ## 📖 Description
@@ -36,14 +34,12 @@ https://drive.google.com/file/d/17JVk1V7oG1HCY0tZJ0_pMfuAXkwtMqyB/view?usp=shari
 
 ## 🚀 Installation
 
-```bash
 # Clone the repository
 git clone https://github.com/yourusername/RetroFutureEscape.git
 
 # Navigate to the project directory
 cd RetroFutureEscape
 
-# Add any additional installation steps here
 ## 🎮 How to Play
 
 Launch the game
