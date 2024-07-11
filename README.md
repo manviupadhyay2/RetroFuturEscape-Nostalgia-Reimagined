@@ -30,11 +30,9 @@ Our game draws inspiration from several iconic titles:
 - 🎨 Retro-futuristic art style
 - 🕹️ Nostalgic gameplay mechanics reimagined for modern audiences
 
-## 📸 Screenshots
+## 📸 Screenshots(Demo Link)
 
-![Screenshot 1](insert_screenshot_1_url_here)
-![Screenshot 2](insert_screenshot_2_url_here)
-![Screenshot 3](insert_screenshot_3_url_here)
+https://drive.google.com/file/d/17JVk1V7oG1HCY0tZJ0_pMfuAXkwtMqyB/view?usp=sharing
 
 ## 🚀 Installation
 
@@ -46,3 +44,31 @@ git clone https://github.com/yourusername/RetroFutureEscape.git
 cd RetroFutureEscape
 
 # Add any additional installation steps here
+## 🎮 How to Play
+
+Launch the game
+Choose your character
+Navigate through the levels
+Complete objectives and solve puzzles
+Enjoy the nostalgic journey!
+
+🤝 Contributing
+We welcome contributions to RetroFutureEscape! If you'd like to contribute, please follow these steps:
+
+Fork the repository
+Create a new branch (git checkout -b feature/AmazingFeature)
+Make your changes
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+
+📄 License
+Distributed under the MIT License.
+Manvi Upadhyay  - manviupadhyay2@gmail.com
+Project Link: https://github.com/yourusername/RetroFutureEscape
+
+🙏 Acknowledgements
+Unity Technologies
+Blender Foundation
+Icon8 for the icons used in this README
+
