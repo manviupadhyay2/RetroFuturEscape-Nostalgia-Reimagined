@@ -47,13 +47,12 @@ https://drive.google.com/file/d/17JVk1V7oG1HCY0tZJ0_pMfuAXkwtMqyB/view?usp=shari
 -->Complete objectives and solve puzzles
 -->Enjoy the nostalgic journey!
 
-
-📄 License
+## 📄 License
 -Distributed under the MIT License.
 -Manvi Upadhyay  - manviupadhyay2@gmail.com
 -Project Link: https://github.com/yourusername/RetroFutureEscape
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 -Unity Technologies
 -Blender Foundation
 -Icon8 for the icons used in this README
