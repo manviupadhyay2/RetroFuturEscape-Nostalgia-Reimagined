@@ -34,26 +34,26 @@ https://drive.google.com/file/d/17JVk1V7oG1HCY0tZJ0_pMfuAXkwtMqyB/view?usp=shari
 
 ## 🚀 Installation
 
- - Clone the repository
-   -->git clone https://github.com/yourusername/RetroFutureEscape.git
+ - **Clone the repository**
+    - git clone https://github.com/yourusername/RetroFutureEscape.git
 
-  -Navigate to the project directory
-   -->cd RetroFutureEscape
+ - Navigate to the project directory
+    - cd RetroFutureEscape
 
 ## 🎮 How to Play
 
--->Launch the game
--->Navigate through the levels
--->Complete objectives and solve puzzles
--->Enjoy the nostalgic journey!
+ - Launch the game
+ - Navigate through the levels
+ - Complete objectives and solve puzzles
+ - Enjoy the nostalgic journey!
 
 ## 📄 License
--Distributed under the MIT License.
--Manvi Upadhyay  - manviupadhyay2@gmail.com
--Project Link: https://github.com/yourusername/RetroFutureEscape
+ - Distributed under the MIT License.
+ - Manvi Upadhyay  - manviupadhyay2@gmail.com
+ - Project Link: https://github.com/yourusername/RetroFutureEscape
 
 ## 🙏 Acknowledgements
--Unity Technologies
--Blender Foundation
--Icon8 for the icons used in this README
+ - Unity Technologies
+ - Blender Foundation
+ - Icon8 for the icons used in this README
 
